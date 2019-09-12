@@ -1,0 +1,10 @@
+#displayClock {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 3em;
+   color: limegreen;
+   background-color: black;
+   width: 50%;
+   text-align: center;
+   border-radius: 1em;
+   padding: .75em;
+}
